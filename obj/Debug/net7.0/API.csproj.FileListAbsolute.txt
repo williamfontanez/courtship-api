@@ -60,3 +60,11 @@
 /Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/williamfontanez/Projects/Courtship/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
